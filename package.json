@@ -1,6 +1,6 @@
 {
   "name": "automated-rec-release-c",
-  "version": "1.0.4-LIT-12345-2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
