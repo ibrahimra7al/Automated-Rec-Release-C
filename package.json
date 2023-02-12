@@ -1,6 +1,6 @@
 {
   "name": "automated-rec-release-c",
-  "version": "1.0.4-LIT-1234-0",
+  "version": "1.0.4-LIT-1234-1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ibrahimra7al/Automated-Rec-Release-C#readme",
   "dependencies": {
-    "automated-rec-release-d": "1.0.0undefined"
+    "automated-rec-release-d": "undefined"
   }
 }
